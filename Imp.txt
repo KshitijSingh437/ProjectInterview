@@ -1,0 +1,4 @@
+1. Runnable, Comparator, Consumer, Predicate, Supplier are some functional interfaces.
+2. An interface that contains only one abstract method is known as functional interface. It can have any number of
+default and static methods.
+

@@ -1,0 +1,4 @@
+1. A thread is a single sequential flow of control within a program.
+2. Runnable is a functional interface.
+3. Two ways to create thread -> Extends Thread class or implement Runnable interface.
+4.
